@@ -15,6 +15,13 @@
       "when": 1790976178400,
       "tag": "0001_polite_mentallo",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790976972191,
+      "tag": "0002_shiny_khan",
+      "breakpoints": true
     }
   ]
 }
