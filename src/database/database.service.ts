@@ -3,7 +3,7 @@ import { ConfigService } from '@nestjs/config';
 import { drizzle, NeonHttpDatabase } from 'drizzle-orm/neon-http';
 import { neon } from '@neondatabase/serverless';
 
-import * as schema from './schema/users.schema.js';
+import * as schema from './schema/index.js';
 
 @Injectable()
 export class DatabaseService {

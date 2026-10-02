@@ -8,6 +8,13 @@
       "when": 1790975301065,
       "tag": "0000_solid_mercury",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790976178400,
+      "tag": "0001_polite_mentallo",
+      "breakpoints": true
     }
   ]
 }
